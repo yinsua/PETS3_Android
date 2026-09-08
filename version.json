@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "url": "content/index-v5.html",
-  "sha256": "3caffeaa1dc8b4dbbc4306bd9850563f899e5cebdd4851ed43893dbe0e870e3f",
-  "notes": "底部改为单词/写作/错题本/设置四个分区；写作进度改为已学·已熟双计数"
+  "version": 6,
+  "url": "content/index-v6.html",
+  "sha256": "0e710153644a51c60b286792744d2e75fc17689167c838a354296c81fbad2c46",
+  "notes": "可设每日新学量和学习范围（精选361/全部900）；新增打卡日历；复习间隔改按遗忘曲线；设置页改为「我的」"
 }
