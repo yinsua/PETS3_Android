@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "url": "content/index-v4.html",
-  "sha256": "ba67490d1e4fe79ea9862668d70e54fbb7e86a795b170450a6ad04bbe2fb308b",
-  "notes": "新增写作模块：95 条万能句型 + 3 套模板骨架 + 3 篇范文 + 35 组高分替换词"
+  "version": 5,
+  "url": "content/index-v5.html",
+  "sha256": "3caffeaa1dc8b4dbbc4306bd9850563f899e5cebdd4851ed43893dbe0e870e3f",
+  "notes": "底部改为单词/写作/错题本/设置四个分区；写作进度改为已学·已熟双计数"
 }
