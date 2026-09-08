@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "url": "content/index-v2.html",
-  "sha256": "1a14dd2cabcc51d5e567ffc5696310a1079981633b795317281ac1fc1e4b2051",
-  "notes": "全表扩到 900 组，修正 8 条残缺词条"
+  "version": 4,
+  "url": "content/index-v4.html",
+  "sha256": "ba67490d1e4fe79ea9862668d70e54fbb7e86a795b170450a6ad04bbe2fb308b",
+  "notes": "新增写作模块：95 条万能句型 + 3 套模板骨架 + 3 篇范文 + 35 组高分替换词"
 }
