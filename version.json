@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "url": "content/index-v11.html",
-  "sha256": "d0ac4b1e7536cfff30694cee397be0f73799b640f7cbd90fc6ef16bfa0f5433c",
-  "notes": "新增使用时长统计：今日用时 + 本周每日柱状图（在「我的」页）"
+  "version": 12,
+  "url": "content/index-v12.html",
+  "sha256": "aea1b55425daa0251824a0dcfbec1d03f8ba91ba629ff7a2c56b2c00d1e93072",
+  "notes": "写作页新增「真题」：2015.9–2024.3 共 13 套真题的 Part A / Part B 题目、参考范文与写作技巧"
 }
