@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "url": "content/index-v10.html",
-  "sha256": "145b5f01e4214559c407183459fef2306f168eb2835fb318f7ae2ea8f4d32820",
-  "notes": "456 条例句：精选 361 条搭配 + 95 条写作句型，翻面后带中英文例句"
+  "version": 11,
+  "url": "content/index-v11.html",
+  "sha256": "d0ac4b1e7536cfff30694cee397be0f73799b640f7cbd90fc6ef16bfa0f5433c",
+  "notes": "新增使用时长统计：今日用时 + 本周每日柱状图（在「我的」页）"
 }
